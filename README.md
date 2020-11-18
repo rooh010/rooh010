@@ -6,6 +6,6 @@
 
 
 - 🔭 I’m currently working on building out a dev portfolio on GitHub
-- 🌱 I’m currently learning C# and Python (Python to help my daughter with her Computer Science work)
+- 🌱 I’m currently learning C# and Java
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/andrew-fay-778b8039/
 - ⚡ Fun fact: I love F1 and have visited a few of the race circuits
